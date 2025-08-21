@@ -182,5 +182,3 @@ This project is proudly licensed under the MIT License. Please refer to the [LIC
 This software is designed for educational and development purposes. We encourage you to use it responsibly and at your own discretion. The development team cannot be held responsible for any financial losses that may occur through the use of this bot.
 
 ---
-
-**Built with ❤️ and dedication by the MoonBot Team**

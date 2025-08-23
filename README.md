@@ -171,7 +171,7 @@ We'd love to have you contribute to our project! Here's how you can get involved
 
 We're here to help! Feel free to reach out through any of these channels:
 
-- **Telegram**: [@Takhi](https://t.me/hi_3333)
+- **Telegram**: [@Pioneer](https://t.me/hi_3333)
 
 ## 📄 License Information
 
